@@ -1,7 +1,15 @@
 div.title{
     font-family: "Menlo", monospace;
-    
 }
+
+div.header {
+     font-family: "Menlo";
+}
+div.facts {
+     font-family: "Menlo";
+     margin: auto;
+}
+
 
 /* Remove margins and padding from the list, and add a black background color */
 ul.topnav {
@@ -26,6 +34,8 @@ ul.topnav li a {
     font-family: "Helvetic Monospace", monospace;
     font-size: 17px;
 }
+
+
 
 /* Change background color of links on hover */
 ul.topnav li a:hover {background-color: #555;}
