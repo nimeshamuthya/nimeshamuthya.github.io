@@ -3,10 +3,10 @@ div.title{
 }
 
 div.header {
-     font-family: "Menlo";
+     font-family: "Menlo", monospace;
 }
 div.facts {
-     font-family: "Menlo";
+     font-family: "Menlo", monospace;
      margin: auto;
 }
 
